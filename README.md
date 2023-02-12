@@ -1,7 +1,7 @@
 ## This script will add a subtitle with highlighted text in your Video.
 
 ## How to use a video subtitle script
-- Prequisite: Following python libraries are required for Python3.5+.
+- Prerequisite: Following python libraries are required for Python3.5+.
     1. opencv-python
     2. moviepy
     3. ffmpeg
